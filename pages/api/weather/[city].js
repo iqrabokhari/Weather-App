@@ -1,4 +1,4 @@
-// pages/api/weather/[city].js
+
 
 const cityCoordinates = {
   berlin: { lat: 52.52, lon: 13.41 },
